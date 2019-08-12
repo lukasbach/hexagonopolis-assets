@@ -1,0 +1,21 @@
+{
+  "name": "hexagonopolis-assets",
+  "version": "1.0.0",
+  "description": "Assets for the webbased game Hexagonopolis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasbach/hexagonopolis-assets.git"
+  },
+  "keywords": [
+    "hexagonopolis",
+    "game",
+    "assets",
+    "kenney"
+  ],
+  "author": "Lukas Bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasbach/hexagonopolis-assets/issues"
+  },
+  "homepage": "lukasbach.github.io/hexagonopolis"
+}
